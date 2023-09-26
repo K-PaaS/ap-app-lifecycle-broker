@@ -19,7 +19,7 @@ logging:
   file: LOG-FILE
   level:
     root: LOGGING-LEVEL-ROOT
-    org.paasta.servicebroker.applifecycle: LOGGING-LEVEL-SERVICEBROKER-APPLIFECYCLE
+    org.servicebroker.applifecycle: LOGGING-LEVEL-SERVICEBROKER-APPLIFECYCLE
     org.hibernate: LOGGING-LEVEL-HIBERNATE
 
 service:
